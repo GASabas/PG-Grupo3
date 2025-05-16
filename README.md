@@ -51,7 +51,7 @@ KPIs
 
 🎯 Objetivo:
 Aumentar la puntuación promedio del local en 0.1 puntos por trimestre, basado en las reviews de los usuarios.
-(La puntuación máxima es 5.0 ⭐)
+(Hasta alcanzar una puntuacion mayor a 4.0 ⭐)
 
 📊 Fórmula:
 
