@@ -72,5 +72,27 @@ Metodología de Trabajo
 
 
 
+| HU  | Historia de Usuario                                                     | Tareas                                                                                   |
+| --- | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| HU1 | Data analyst- Realizar un EDA para entender los datos.                  | ✅ Recopilar datasets <br> ✅ Identificar nulos/duplicados/outliers <br> ✅ Visualizaciones |
+| HU2 | Equipo- Definir KPIs para evaluar el sistema.                           | ✅ Identificar métricas clave <br> ✅ Documentar fórmulas y criterios                      |
+| HU3 | Equipo- Establecer un repositorio GitHub.                               | ✅ Crear repositorio <br> ✅ Configurar branches y flujos <br> ✅ Documentar estándares     |
+
+
+| HU  | Historia de Usuario                                                      | Tareas                                                                                           |
+| --- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
+| HU4 | Data Engineer-Crear un pipeline ETL automatizado.                        | ✅ Diseñar flujo ETL <br> ✅ Configurar Data Warehouse/Lake <br> ✅ Implementar carga incremental   |
+| HU5 | Equipo- Diseño de un modelo relacional.                                  | ✅ Crear modelo ERD <br> ✅ Implementar en PostgreSQL o BigQuery <br> ✅ Validar integridad vía SQL |
+| HU6 | Equipo- Asegurar calidad en los datos.                                   | ✅ Validaciones con Airflow/Prefect <br> ✅ Reportes de calidad <br> ✅ Resolver inconsistencias    |
+
+
+
+| HU  | Historia de Usuario                                                             | Tareas                                                                                      |
+| --- | --------------------------------------------------------------------------------|---------------------------------------------------                                         |   
+| HU7 | Data Analyst- Visualizacion de las recomendaciones en un dashboard interactivo. | ✅ Gráficos de KPIs <br> ✅ Conexión con base de datos <br> ✅Filtros interactivos         |
+| HU8 | ML engineer- Entrenar un modelo de recomendación.                               | ✅ Elegir algoritmo <br> ✅ Optimizar hiperparámetros <br> ✅ Evaluar con precisión/recall |
+| HU9 | Equipo- desplegar el modelo en producción.                                      | ✅ Crear API con FastAPI <br> ✅ Integrar modelo con dashboard <br> ✅ Probar y optimizar tiempos de respuesta |
+
+
 
 
