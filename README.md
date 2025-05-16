@@ -55,7 +55,7 @@ Aumentar la puntuación promedio del local en 0.1 puntos por trimestre, basado e
 
 📊 Fórmula:
 
-![alt text](<img\kpi1>)
+![alt text](https://github.com/GASabas/PG-Grupo3/blob/main/img/kpi1.png)
 
 
 📈 Incremento mensual de cantidad de reviews
@@ -65,7 +65,7 @@ Incrementar la cantidad total de reseñas recibidas por un local en al menos +2%
 
 📊 Fórmula:
 
-![alt text](<img\kpi2>)
+![alt text](https://github.com/GASabas/PG-Grupo3/blob/main/img/kpi2.png)
 
 Metodología de Trabajo
 📢 Para garantizar una gestión eficiente del proyecto, se aplicará la metodología Scrum:
