@@ -287,3 +287,16 @@ hora (si la review tiene timestamp)
 id_categoria (Primary Key)
 nombre_categoria (ej. "Pizza", "Italian", "Hotel", "Bar")
 tipo_negocio_general (ej. "Comida", "Alojamiento", "Entretenimiento")
+
+
+Conclusiones Clave: 
+
+"Nuestro proyecto confirma que el análisis de datos masivos es fundamental para la estrategia de negocio. Hemos identificado patrones claros en las preferencias de los consumidores y en la dinámica del mercado de pizzerías en CA/NV."
+Recomendaciones Específicas:
+"Priorizar el estudio de las ciudades de Los Ángeles, Sab Francisco y Las Vegas para nuevas aperturas, dadas las métricas de sentimiento y competencia."
+"Enfoque en la calidad de los ingredientes y la rapidez en el servicio como factores críticos de éxito."
+"Considerar la expansión en áreas con demanda insatisfecha pero con un alto volumen de reseñas positivas en general."
+Próximos Pasos / Mejoras Futuras:
+Integrar más fuentes de datos (ej. datos demográficos, tráfico peatonal).
+Desarrollar un modelo de recomendación más sofisticado.
+Expandir el análisis a otros tipos de negocios.
